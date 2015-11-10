@@ -17,7 +17,6 @@
 /*1 + (translateZ * -1) / perspective*/
 .parallax-base-layer{
 	transform: translateZ(0);
-	background: url("canucks1.jpeg") center no-repeat;
 }
 
 .parallax-back-layer{
